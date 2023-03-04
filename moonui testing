@@ -19,6 +19,10 @@ local FirstButton = FirstPage.AddButton("Orca X", function()
  -- Script
  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua"))() 
 end)
+local FirstButton = FirstPage.AddButton("Update Script", function()
+ -- Script
+ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua"))() 
+end)
 local FirstButton = FirstPage.AddButton("Opfinality", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/IlikeyocutgHAH12/EUOHFIWIDKA/main/FE%20Gui.txt'))()
 end)
