@@ -36,7 +36,7 @@ local FirstButton = FirstPage.AddButton("Rose Hub", function()
 		local feTabText = ""
 		local gameScriptsTabText = ""
 		local guiTabText = ""
-	
+	 
 		local scripttabList = {
 			{"Infinite Yield", "MjBzRjmT", 1},
 			{"Knife V3", "W833RBFr", 1},
